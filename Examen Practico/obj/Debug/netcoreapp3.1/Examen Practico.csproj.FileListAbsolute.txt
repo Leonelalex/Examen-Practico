@@ -1,0 +1,155 @@
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\bin\Debug\netcoreapp3.1\Examen Practico.exe
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\bin\Debug\netcoreapp3.1\Examen Practico.deps.json
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\bin\Debug\netcoreapp3.1\Examen Practico.runtimeconfig.json
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\bin\Debug\netcoreapp3.1\Examen Practico.runtimeconfig.dev.json
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\bin\Debug\netcoreapp3.1\Examen Practico.dll
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\bin\Debug\netcoreapp3.1\Examen Practico.pdb
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\bin\Debug\netcoreapp3.1\Examen Practico.Views.dll
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\bin\Debug\netcoreapp3.1\Examen Practico.Views.pdb
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\obj\Debug\netcoreapp3.1\Examen Practico.csprojAssemblyReference.cache
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\obj\Debug\netcoreapp3.1\Examen Practico.AssemblyInfoInputs.cache
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\obj\Debug\netcoreapp3.1\Examen Practico.AssemblyInfo.cs
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\obj\Debug\netcoreapp3.1\Examen Practico.csproj.CoreCompileInputs.cache
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\obj\Debug\netcoreapp3.1\Examen Practico.MvcApplicationPartsAssemblyInfo.cache
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\obj\Debug\netcoreapp3.1\Examen Practico.RazorAssemblyInfo.cache
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\obj\Debug\netcoreapp3.1\Examen Practico.RazorAssemblyInfo.cs
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\obj\Debug\netcoreapp3.1\staticwebassets\Examen Practico.StaticWebAssets.Manifest.cache
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\obj\Debug\netcoreapp3.1\staticwebassets\Examen Practico.StaticWebAssets.xml
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\obj\Debug\netcoreapp3.1\scopedcss\bundle\Examen Practico.styles.css
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\obj\Debug\netcoreapp3.1\Examen Practico.TagHelpers.input.cache
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\obj\Debug\netcoreapp3.1\Examen Practico.TagHelpers.output.cache
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\obj\Debug\netcoreapp3.1\Examen Practico.RazorCoreGenerate.cache
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\obj\Debug\netcoreapp3.1\Examen Practico.RazorTargetAssemblyInfo.cache
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\obj\Debug\netcoreapp3.1\Examen Practico.RazorTargetAssemblyInfo.cs
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\obj\Debug\netcoreapp3.1\Examen Practico.Views.pdb
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\obj\Debug\netcoreapp3.1\Examen Practico.csproj.CopyComplete
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\obj\Debug\netcoreapp3.1\Examen Practico.dll
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\obj\Debug\netcoreapp3.1\Examen Practico.pdb
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\obj\Debug\netcoreapp3.1\Examen Practico.genruntimeconfig.cache
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\obj\Debug\netcoreapp3.1\Razor\Views\Facturas\Index.cshtml.g.cs
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\obj\Debug\netcoreapp3.1\Razor\Views\Facturas\Insert.cshtml.g.cs
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\obj\Debug\netcoreapp3.1\Razor\Views\Facturas\Detalle.cshtml.g.cs
+D:\Proyectos\net Proyects\Examen Practico\Examen Practico\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll

@@ -1,0 +1,71 @@
+﻿@model Examen_Practico.Models.Factura
+<br />
+<h2 class="text-info">@(Model.id!=0 ? "Editar" : "Agregar") Factura</h2>
+<br />
+<div class="border container" style="padding:30px;">
+
+	<form method="post">
+		@if (Model.id != 0)
+		{
+			<input type="hidden" asp-for="id" />
+		}
+		<div class="text-danger" asp-validation-summary="ModelOnly"></div>
+
+		<div class="form-group row">
+			<div class="col-3">
+				<label asp-for="clienteNombre">Cliente</label>
+			</div>
+			<div class="col-6">
+				<input asp-for="clienteNombre" class="form-control" />
+				<span asp-validation-for="clienteNombre" class="text-danger"></span>
+			</div>
+		</div>
+
+		<div class="form-group row">
+			<div class="col-3">
+				<label asp-for="clienteNit">Nit</label>
+			</div>
+			<div class="col-6">
+				<input asp-for="clienteNit" class="form-control" />
+				<span asp-validation-for="clienteNit" class="text-danger"></span>
+			</div>
+		</div>
+
+		<div class="form-group row">
+			<div class="col-3">
+				<label asp-for="fecha">Fecha</label>
+			</div>
+			<div class="col-6">
+				<input asp-for="fecha" class="form-control" />
+				<span asp-validation-for="fecha" class="text-danger"></span>
+			</div>
+		</div>
+
+		<div class="form-group row">
+			<div class="col-3">
+				<label asp-for="total">Total</label>
+			</div>
+			<div class="col-6">
+				<input asp-for="total" class="form-control" />
+				<span asp-validation-for="total" class="text-danger"></span>
+			</div>
+		</div>
+
+		<div class="form-group row">
+			<div class="col-3">
+				<button type="submit" class="btn btn-primary form-control">
+					@(Model.id!=0 ? "Editar" : "Agregar")
+				</button>
+			</div>
+			<div class="col-3">
+				<a asp-action="Index" class="btn btn-success form-control">Regresar</a>
+			</div>
+		</div>
+
+	</form>
+
+</div>
+
+@section Scripts{
+	<partial name="_ValidationScriptsPartial" />
+}
